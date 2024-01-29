@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="8" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-28T01:10:20 IST" name="Suite" finished-at="2024-01-28T01:10:41 IST" duration-ms="21214">
+    <groups>
+    </groups>
+    <test started-at="2024-01-28T01:10:20 IST" name="Test" finished-at="2024-01-28T01:10:41 IST" duration-ms="21214">
+      <class name="orangeHRMTests.AdminUserCreationTest">
+        <test-method is-config="true" signature="objects()[pri:0, instance:orangeHRMTests.AdminUserCreationTest@6bb4dd34]" started-at="2024-01-28T01:10:23 IST" name="objects" finished-at="2024-01-28T01:10:23 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- objects -->
+        <test-method signature="clickOnAdmin()[pri:4, instance:orangeHRMTests.AdminUserCreationTest@6bb4dd34]" started-at="2024-01-28T01:10:23 IST" name="clickOnAdmin" finished-at="2024-01-28T01:10:27 IST" duration-ms="3859" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnAdmin -->
+        <test-method signature="clickOnAddButton()[pri:5, instance:orangeHRMTests.AdminUserCreationTest@6bb4dd34]" started-at="2024-01-28T01:10:27 IST" name="clickOnAddButton" finished-at="2024-01-28T01:10:31 IST" duration-ms="3472" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnAddButton -->
+        <test-method signature="provideUserDetails()[pri:6, instance:orangeHRMTests.AdminUserCreationTest@6bb4dd34]" started-at="2024-01-28T01:10:31 IST" name="provideUserDetails" finished-at="2024-01-28T01:10:38 IST" duration-ms="7448" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- provideUserDetails -->
+        <test-method signature="clickOnSaveButton()[pri:7, instance:orangeHRMTests.AdminUserCreationTest@6bb4dd34]" started-at="2024-01-28T01:10:39 IST" name="clickOnSaveButton" finished-at="2024-01-28T01:10:41 IST" duration-ms="2082" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnSaveButton -->
+      </class> <!-- orangeHRMTests.AdminUserCreationTest -->
+      <class name="orangeHRMTests.OrangeHRMLoginTest">
+        <test-method is-config="true" signature="browserLaunch()[pri:0, instance:orangeHRMTests.OrangeHRMLoginTest@e3b3b2f]" started-at="2024-01-28T01:10:14 IST" name="browserLaunch" finished-at="2024-01-28T01:10:20 IST" duration-ms="5363" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+        <test-method is-config="true" signature="objects()[pri:0, instance:orangeHRMTests.OrangeHRMLoginTest@e3b3b2f]" started-at="2024-01-28T01:10:20 IST" name="objects" finished-at="2024-01-28T01:10:20 IST" duration-ms="55" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- objects -->
+        <test-method signature="provideUserName()[pri:1, instance:orangeHRMTests.OrangeHRMLoginTest@e3b3b2f]" started-at="2024-01-28T01:10:20 IST" name="provideUserName" finished-at="2024-01-28T01:10:22 IST" duration-ms="2110" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- provideUserName -->
+        <test-method signature="providePassword()[pri:2, instance:orangeHRMTests.OrangeHRMLoginTest@e3b3b2f]" started-at="2024-01-28T01:10:22 IST" name="providePassword" finished-at="2024-01-28T01:10:22 IST" duration-ms="68" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- providePassword -->
+        <test-method signature="clickOnLoginButton()[pri:3, instance:orangeHRMTests.OrangeHRMLoginTest@e3b3b2f]" started-at="2024-01-28T01:10:22 IST" name="clickOnLoginButton" finished-at="2024-01-28T01:10:22 IST" duration-ms="51" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnLoginButton -->
+      </class> <!-- orangeHRMTests.OrangeHRMLoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
