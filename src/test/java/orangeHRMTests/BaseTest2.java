@@ -12,7 +12,7 @@ import orangeHRMPages.OrangeHRMLogin;
 import utility.ReadPropData;
 import utility.TimeGen;
 
-public class secondUser {
+public class BaseTest2 {
 public void userTest(){
 System.out.println("this is a user second update ");
 }
