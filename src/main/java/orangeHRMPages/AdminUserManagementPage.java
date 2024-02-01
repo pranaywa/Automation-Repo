@@ -62,7 +62,6 @@ public AdminUserManagementPage(WebDriver driver) {
  public void clickOnSave() {
 	 saveButton.click();
  }
-//this is testing for github
 
 
 }
